@@ -1,18 +1,18 @@
 # Privacy Policy
 
-**Last updated: January 24, 2026**
+**Last updated: January 25, 2026**
 
 ## Introduction
 
-1Take ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our iOS application.
+SonicDNA Collector ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our iOS application.
 
 ## Summary
 
-1Take collects anonymous diagnostic data to improve app stability and user experience. All your audio recordings remain stored locally on your device only and are never uploaded to any server.
+**SonicDNA Collector does not collect any personal data.** All your audio recordings and measurements remain stored locally on your device only and are never uploaded to any server.
 
 ## Audio Recordings
 
-All audio recordings you create with 1Take are:
+All audio recordings and measurement data you create with SonicDNA Collector are:
 
 - Stored **locally on your device only**
 - **Never uploaded** to any server
@@ -21,46 +21,25 @@ All audio recordings you create with 1Take are:
 
 ## Data We Collect
 
-1Take uses Firebase, a service provided by Google, to collect anonymous diagnostic data. This helps us improve app stability and understand how the app is used.
+**We do not collect any data.** SonicDNA Collector:
 
-### Crash Data (Firebase Crashlytics)
-
-When the app crashes, we automatically collect:
-
-- Device type and iOS version
-- App version and build number
-- Crash logs and stack traces
-- Memory and disk usage at time of crash
-
-### Usage Analytics (Firebase Analytics)
-
-We collect anonymous usage data including:
-
-- App opens and session duration
-- Feature usage patterns
-- Device type and iOS version
-- Anonymous device identifier (not linked to your identity)
-
-### Data Collection Summary
-
-| Data Type | Purpose | Linked to You |
-|-----------|---------|---------------|
-| Crash Data | App Functionality | No |
-| Performance Data | App Functionality | No |
-| Usage Data | Analytics | No |
-| Device ID | Analytics | No |
+- Does not use analytics services
+- Does not use crash reporting services
+- Does not track usage patterns
+- Does not collect device information
 
 ## What We Do NOT Collect
 
 - Your audio recordings or any content you create
 - Personal information (name, email, etc.)
 - Location data
-- Contacts or calendar data
-- Data for advertising purposes
+- Device identifiers
+- Usage statistics
+- Crash reports
 
 ## Tracking and Advertising
 
-**We do not track you for advertising purposes.** 1Take:
+**We do not track you.** SonicDNA Collector:
 
 - Does not use advertising identifiers (IDFA)
 - Does not share data with advertisers
@@ -69,24 +48,25 @@ We collect anonymous usage data including:
 
 ## Microphone Access
 
-1Take requires microphone access to record audio. This permission is:
+SonicDNA Collector requires microphone access to record audio. This permission is:
 
-- Used solely for audio recording functionality
-- Only active when you explicitly start a recording
+- Used solely for audio recording and measurement functionality
+- Only active when you explicitly start a recording or test tone
 - Controllable via iOS Settings at any time
 
 ## Third-Party Services
 
-1Take uses the following third-party services:
+SonicDNA Collector does not use any third-party services that collect data.
 
-- **Firebase Crashlytics** - Crash reporting and diagnostics
-- **Firebase Analytics** - Anonymous usage analytics
+## Data Storage
 
-These services are provided by Google. For more information, see [Firebase Privacy Policy](https://firebase.google.com/support/privacy).
+All data is stored locally on your device:
 
-## Data Retention
+- Audio recordings (WAV files)
+- Measurement metadata (JSON files)
+- App settings
 
-Crash and analytics data is retained by Firebase according to their standard retention policies. This data is anonymous and cannot be used to identify you.
+This data can be accessed via the Files app and is included in your device backups.
 
 ## Data Deletion
 
@@ -94,7 +74,7 @@ You can delete your recordings at any time through the app's Recordings tab. Uni
 
 ## Children's Privacy
 
-1Take does not knowingly collect personal information from children under 13. The anonymous diagnostic data we collect is not linked to any individual user.
+SonicDNA Collector does not collect any personal information from anyone, including children under 13.
 
 ## Changes to This Policy
 
@@ -104,8 +84,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-📧 **because-of-you@because-of-you.net**
+📧 **sonicdna@hakaru.net**
 
 ---
 
-© 2026 because-of-you.net
+© 2026 hakaru.net

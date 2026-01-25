@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</article>
+
+<hr>
+
+<p>
+{% if page.lang == "ja" %}
+  <a href="{{ '/blog/ja/' | relative_url }}">← ブログ一覧へ戻る</a>
+{% else %}
+  <a href="{{ '/blog/en/' | relative_url }}">← Back to Blog</a>
+{% endif %}
+</p>

@@ -1,5 +1,5 @@
-title: 1Take Support
-description: Support page for 1Take - Audio Recording App for Musicians
+title: SonicDNA Collector Support
+description: Support page for SonicDNA Collector - Audio Measurement App for Equipment Modeling
 theme: jekyll-theme-minimal
 
 collections:
@@ -21,5 +21,3 @@ defaults:
     values:
       layout: article
       lang: ja
-
-google_analytics: G-5YP5139PC3
