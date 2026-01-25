@@ -1,0 +1,25 @@
+title: 1Take Support
+description: Support page for 1Take - Audio Recording App for Musicians
+theme: jekyll-theme-minimal
+
+collections:
+  posts_en:
+    output: true
+    permalink: /blog/en/:name/
+  posts_ja:
+    output: true
+    permalink: /blog/ja/:name/
+
+defaults:
+  - scope:
+      type: posts_en
+    values:
+      layout: article
+      lang: en
+  - scope:
+      type: posts_ja
+    values:
+      layout: article
+      lang: ja
+
+google_analytics: G-5YP5139PC3
