@@ -147,4 +147,4 @@ SonicDNA Collectorは、20Hzから20kHzまでの対数スイープ信号を96kHz
 
 ## 関連記事
 
-- [SonicDNA Collector 機能詳解 — あなたの機材のDNAを解き明かす]({% post_url 2026-03-08-feature-deep-dive %})
+- [SonicDNA Collector 機能詳解 — あなたの機材のDNAを解き明かす](/blog/ja/2026-03-08-feature-deep-dive/)

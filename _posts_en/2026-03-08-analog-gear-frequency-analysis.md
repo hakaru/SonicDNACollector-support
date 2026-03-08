@@ -146,4 +146,4 @@ Discover the unique sonic DNA of your analog gear — measure it, understand it,
 
 ## Related Articles
 
-- [SonicDNA Collector Feature Deep Dive]({% post_url 2026-03-08-feature-deep-dive %})
+- [SonicDNA Collector Feature Deep Dive](/blog/en/2026-03-08-feature-deep-dive/)
