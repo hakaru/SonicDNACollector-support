@@ -2,6 +2,30 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "hakaru"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "hakaru apps",
+    "url": "https://hakaru.net/"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hakaru.net/SonicDNACollector-support{{ page.url }}"
+  }{% if page.description %},
+  "description": {{ page.description | jsonify }}{% endif %}
+}
+</script>
+
 <article>
   <h1>{{ page.title }}</h1>
   {{ content }}

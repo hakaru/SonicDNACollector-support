@@ -143,3 +143,7 @@ Measuring your analog gear's frequency response transforms subjective impression
 Discover the unique sonic DNA of your analog gear — measure it, understand it, and make better-informed decisions about your signal chain.
 
 [Download SonicDNA Collector on the App Store](https://apps.apple.com/app/sonicdna-collector/id6740519938)
+
+## Related Articles
+
+- [SonicDNA Collector Feature Deep Dive]({% post_url 2026-03-08-feature-deep-dive %})

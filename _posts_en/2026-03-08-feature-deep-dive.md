@@ -102,3 +102,7 @@ For detailed usage instructions, check out the [User Manual](/manual/en/).
 ---
 
 Questions or feedback? Reach out at **sonicdna@hakaru.net**.
+
+## Related Articles
+
+- [How to Measure Your Analog Gear's Frequency Response]({% post_url 2026-03-08-analog-gear-frequency-analysis %})

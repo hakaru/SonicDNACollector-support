@@ -102,3 +102,7 @@ SonicDNA Collector は「機材のDNA」を抽出するためのツールです�
 ---
 
 ご質問やフィードバックは **sonicdna@hakaru.net** までお気軽にどうぞ。
+
+## 関連記事
+
+- [アナログ機材の周波数特性を自分で測定する方法]({% post_url 2026-03-08-analog-gear-frequency-analysis %})

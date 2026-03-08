@@ -144,3 +144,7 @@ SonicDNA Collectorは、20Hzから20kHzまでの対数スイープ信号を96kHz
 あなたの機材が持つ固有の「音のDNA」を、SonicDNA Collectorで解き明かしてみませんか？
 
 [App Storeでダウンロード](https://apps.apple.com/app/sonicdna-collector/id6740519938)
+
+## 関連記事
+
+- [SonicDNA Collector 機能詳解 — あなたの機材のDNAを解き明かす]({% post_url 2026-03-08-feature-deep-dive %})
